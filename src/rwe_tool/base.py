@@ -1,7 +1,5 @@
 """基础工具抽象与通用异常。"""
 
-from __future__ import annotations
-
 from dataclasses import dataclass
 from typing import Any, Dict, Optional
 

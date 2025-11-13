@@ -1,7 +1,5 @@
 """RWEUniverse 核心引擎，实现工具加载、列举与执行。"""
 
-from __future__ import annotations
-
 from dataclasses import dataclass
 from typing import Any, Dict, List, Optional
 

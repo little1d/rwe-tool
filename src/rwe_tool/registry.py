@@ -1,7 +1,5 @@
 """工具注册与发现机制。"""
 
-from __future__ import annotations
-
 from dataclasses import dataclass
 from typing import Dict, List, Optional, Type, TYPE_CHECKING
 

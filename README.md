@@ -1,6 +1,6 @@
 # RWE Tool
 
-一个最小可用的 RWE（Real-World Evidence）工具宇宙，内置：
+一个最小可用的 RWE（Real-World Evidence）tool universe，内置：
 
 - 轻量级核心引擎 `RWEUniverse`
 - 基础工具基类与装饰器式注册系统
