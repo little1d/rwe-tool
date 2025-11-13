@@ -3,5 +3,6 @@ __pycache__/
 
 
 *.egg-info/
-src/.DS_Store
-.DS_Store
+
+*.DS_Store
+playground/
